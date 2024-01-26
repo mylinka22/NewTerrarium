@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ter</string>
+
+
+    <string-array name="names">
+        <item>Свет и подогрев</item>
+        <item>Туманогенратор</item>
+        <item>Помпа</item>
+    </string-array>
+</resources>
